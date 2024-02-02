@@ -1,0 +1,1 @@
+For a detailed explanation of the project, including an in-depth guide on how to implement gRPC in Java for microservices, please visit [gRPC with Java](https://gangforcode.com/implementing-grpc-with-java-for-microservices/)
